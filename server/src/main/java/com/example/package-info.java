@@ -1,6 +1,6 @@
 /*
  * This is a package name.
- * @package This is a package name.
+ * @author nirmal
  */
 package com.example;
 
